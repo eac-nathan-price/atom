@@ -1,2 +1,2 @@
-# atom
-Across the Obelisk Mod
+# atomic
+Across the Obelisk Mods in Chat
